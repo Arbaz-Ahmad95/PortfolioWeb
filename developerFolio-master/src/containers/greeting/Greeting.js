@@ -8,7 +8,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import {illustration, greeting} from "../../portfolio";
 import StyleContext from "../../contexts/StyleContext";
-import arbazz from "../../assets/images/arbazzz.png"; // Assuming this is the correct path to the image
+import arbazz from "../../assets/images/newarb.jpeg"; // Assuming this is the correct path to the image
 
 export default function Greeting() {
   const {isDark} = useContext(StyleContext);
